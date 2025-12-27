@@ -37,16 +37,20 @@ public:
 	static void Withdraw(string File_Name = "Data/Clients.txt")
 	{
 		_DrawHeader("  WITHDRAW SCREEN");
+		int Trials = 2;
 		cout << " Please Enter The CCP Number Of The Desired Client To Withdraw In His Account  : ";
 		string CCP_Number = clsInputValidation::ReadString();
 
-		while (!clsBankClient::IsClientExist(CCP_Number))
+		while (!clsBankClient::IsClientExist(CCP_Number) && Trials != 0)
 		{
+			cout << " You Have " << Trials << " Trial(s) Left" << endl;
 			cout << " No Client Matches The CCP Number Entered , Retry : ";
 			CCP_Number = clsInputValidation::ReadString();
 			cout << endl;
+			Trials--;
 		}
 
+		
 		vector <clsBankClient> V1 = clsBankClient::Clients_List();
 		char Answer;
 		bool Found = false;
@@ -95,7 +99,7 @@ public:
 						{
 						case clsBankClient::SuccessToModify:
 							cout << "\n=========================================\n";
-							cout << "|       Amount Successfully Added       |\n";
+							cout << "|       Amount Successfully Withdrawed       |\n";
 							cout << "=========================================\n";
 							break;
 						default:
