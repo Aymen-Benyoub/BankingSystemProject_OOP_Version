@@ -215,35 +215,37 @@ Password:    [A-Za-z0-9._%+-]{6}
 
 ---
 
-## 📥 Installation & Compilation
+## 📥 Installation & Setup
 
-### Clone the Repository
+### Prerequisites
+- **Visual Studio Community Edition** (FREE) - [Download here](https://visualstudio.microsoft.com/vs/community/)
+  - ✅ Best for compiling and testing C++ projects
+  - ✅ Built-in debugger for examining code closely
+  - ✅ IntelliSense for easy code navigation
+  - ✅ Includes all necessary C++ runtime libraries
+
+### Installation Steps
+
+#### 1. Install Visual Studio Community
+1. Download [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) (100% FREE)
+2. Run the installer
+3. Select **"Desktop development with C++"** workload
+4. Click Install (this may take 15-30 minutes)
+
+#### 2. Clone the Repository
+Open **Command Prompt** or **Git Bash** and run:
 ```bash
-git clone https://github.com/Aymen-Benyoub/BankingSystemProject_OOP_Version
-cd algerian-bank-system
+git clone https://github.com/Aymen-Benyoub/BankingSystemProject_OOP_Version.git
 ```
 
-### Compile
-
-**Linux/macOS:**
+#### 3. Navigate to Project Directory
 ```bash
-g++ -std=c++11 -o bank_system main.cpp
+cd BankingSystemProject_OOP_Version\BANKING_SYSTEM
 ```
 
-**Windows (MinGW):**
+#### 4. Run the Application
 ```bash
-g++ -std=c++11 -o bank_system.exe main.cpp
-```
-
-**Windows (MSVC):**
-```bash
-cl /std:latest main.cpp
-```
-
-### Run
-```bash
-./bank_system          # Linux/macOS
-bank_system.exe        # Windows
+BANKING_SYSTEM.exe
 ```
 
 ### First Login
@@ -252,6 +254,44 @@ Username: Admin
 Password: 1111
 ```
 
+---
+
+## 🔧 Opening in Visual Studio (Optional)
+
+If you want to **view, modify, or debug the code**:
+
+1. Open **Visual Studio Community**
+2. Click **File → Open → Project/Solution**
+3. Navigate to `BankingSystemProject_OOP_Version\BANKING_SYSTEM`
+4. Open the `.sln` solution file (or the main `.cpp` file)
+5. Press **F5** to compile and run with debugging
+6. Or press **Ctrl+F5** to run without debugging
+
+### Benefits of Using Visual Studio:
+- 🔍 **Step through code line-by-line** with the debugger
+- 📖 **View variable values** during runtime
+- 🎯 **Set breakpoints** to pause execution
+- 💡 **IntelliSense** for auto-completion and documentation
+- 🐛 **Easy error detection** and fixing
+
+---
+
+## 🚀 Quick Start
+
+### Method 1: Direct Execution (Fast)
+```bash
+git clone https://github.com/Aymen-Benyoub/BankingSystemProject_OOP_Version.git
+cd BankingSystemProject_OOP_Version\BANKING_SYSTEM
+BANKING_SYSTEM.exe
+```
+
+### Method 2: Open in Visual Studio (For Development)
+1. Clone the repository
+2. Open Visual Studio Community
+3. Open the project from `BANKING_SYSTEM` folder
+4. Press **F5** to run
+
+---
 ---
 
 ## 📊 Example Usage
