@@ -52,7 +52,7 @@ private:
 
 		while (!clsInputValidation::isValidPhoneNumber(Client.PhoneNumber))
 		{
-			cout << " Please Enter A Valid Phone Number In This Pattern 0{4-7} + 8 Digits : ";
+			cout << " Please Enter A Valid Phone Number In This Pattern 0{5-7} + 8 Digits : ";
 			Client.PhoneNumber = clsInputValidation::ReadTrimedString();
 			cout << endl;
 
