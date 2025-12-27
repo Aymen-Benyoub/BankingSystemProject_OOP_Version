@@ -1,0 +1,77 @@
+﻿  BANKING_SYSTEM.cpp
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Libraries\clsString.h(48,19): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Libraries\clsString.h(53,22): warning C4267: 'return' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Libraries\clsString.h(275,24): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Libraries\clsString.h(304,24): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Libraries\clsString.h(334,24): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Libraries\clsString.h(361,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Libraries\clsString.h(364,25): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Core Classes\clsBankClient.h(59,113): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Core Classes\clsBankClient.h(390,10): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsAddNewClientScreen.h(86,56): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsUpdateClientScreen.h(83,56): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsDepositScreen.h(57,9): warning C4101: 'Answer' : variable locale non référencée
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsWithdrawScreen.h(51,8): warning C4101: 'Answer' : variable locale non référencée
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsShowClientsBalanceMood.h(51,86): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsRegisterTransfer.h(109,13): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsRegisterTransfer.h(120,13): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsTransferScreen.h(69,17): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsTransferScreen.h(77,79): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Core Classes\clsCurrency.h(32,17): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsFindCurrency.h(64,13): warning C4129: « C » : séquence d’échappement de caractères non reconnue
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsFindCurrency.h(69,13): warning C4129: « C » : séquence d’échappement de caractères non reconnue
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsFindCurrency.h(94,13): warning C4129: « C » : séquence d’échappement de caractères non reconnue
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsFindCurrency.h(99,13): warning C4129: « C » : séquence d’échappement de caractères non reconnue
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsUpdateCurrencyRate.h(57,12): warning C4129: « C » : séquence d’échappement de caractères non reconnue
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\BANKING_SYSTEM\Screen Classes\clsUpdateCurrencyRate.h(94,12): warning C4129: « C » : séquence d’échappement de caractères non reconnue
+  (compiler le fichier source 'BANKING_SYSTEM.cpp')
+  
+  BANKING_SYSTEM.vcxproj -> C:\Users\hp\Desktop\Bs\BANKING_SYSTEM\x64\Debug\BANKING_SYSTEM.exe
