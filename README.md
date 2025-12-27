@@ -38,29 +38,28 @@ A comprehensive desktop banking application developed in **C++** using **Object-
 ## 📸 Project Screenshots
 
 ### Login Screen
-![Login Screen](https://github.com/YOUR_USERNAME/algerian-bank-system/blob/main/screenshots/login-screen.png)
+![Login Screen](Screenshots/Login.png)
 *Enter with default credentials: Admin / 1111*
 
 ### Main Menu
-![Main Menu](https://github.com/YOUR_USERNAME/algerian-bank-system/blob/main/screenshots/main-menu.png)
+![Main Menu](Screenshots/Menu.png)
 
 ### Client Management
-![Add Client Screen](https://github.com/YOUR_USERNAME/algerian-bank-system/blob/main/screenshots/add-client.png)
 
-![Clients List](https://github.com/YOUR_USERNAME/algerian-bank-system/blob/main/screenshots/clients-list.png)
+![Clients List](Screenshots/ClientList.png)
 
 ### Transaction Operations
-![Deposit Screen](https://github.com/YOUR_USERNAME/algerian-bank-system/blob/main/screenshots/deposit-screen.png)
+![Deposit Screen](Screenshots/Deposit.png)
 
-![Withdraw Screen](https://github.com/YOUR_USERNAME/algerian-bank-system/blob/main/screenshots/withdraw-screen.png)
+![Withdraw Screen](Screenshots/Withdraw.png)
 
 ### User Management
-![Add User Screen](https://github.com/YOUR_USERNAME/algerian-bank-system/blob/main/screenshots/add-user.png)
+![Users Screen](Screenshots/Users.png)
 
-![Users List](https://github.com/YOUR_USERNAME/algerian-bank-system/blob/main/screenshots/users-list.png)
+![Users List](Screenshots/UsersList.png)
 
 ### Currency Exchange
-![Currency Menu](https://github.com/YOUR_USERNAME/algerian-bank-system/blob/main/screenshots/currency-menu.png)
+![Currency Menu](Screenshots/CurrencyExchange.png)
 
 ---
 
