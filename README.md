@@ -219,7 +219,7 @@ Password:    [A-Za-z0-9._%+-]{6}
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/algerian-bank-system.git
+git clone https://github.com/Aymen-Benyoub/BankingSystemProject_OOP_Version
 cd algerian-bank-system
 ```
 
